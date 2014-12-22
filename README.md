@@ -3,6 +3,8 @@ AIKE
 
 This is AIKE subgroup project management.
 
+[Issues](https://github.com/AKSW/AIKE/issues) lists the current main tasks.
+
 # Projects
 
 ## Catalogus Professorum Lipsiensis und Pfarrerbuch ##
